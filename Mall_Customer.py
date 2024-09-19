@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 # Load Data
-data = pd.read_csv('E:\\archive\\Mall_Customers.csv')
+data = pd.read_csv('E:\\Mall Customer\\Mall_Customers.csv')
 
 # Explore The Data :
 print(data.head(5)) # First 5
